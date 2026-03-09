@@ -1,40 +1,40 @@
-# academic_purposes - unit_tests
+# pytest-shopping-cart-tests
 
-## Tecnologias
+## Technologies
 
 - Python
 - pytest
 
-## Contexto
+## Context
 
-Exercício acadêmico sobre testes unitários em Python utilizando pytest.
+Academic exercise about unit testing in Python using pytest.
 
-Este exercício simula um pequeno módulo de um sistema de e-commerce responsável
-por calcular o total de um carrinho de compras.
+This exercise simulates a small module of an e-commerce system responsible
+to calculating the total of a shopping cart.
 
-O código foi implementado rapidamente e pode conter erros. O objetivo da
-atividade é garantir a qualidade do código através de testes unitários.
+The code was implemented quickly and can have errors. The goal of the activity 
+is guarantee the code quality through unit tests.
 
-## Objetivos do exercício
+## Exercise goals
 
-- Escrever testes unitários utilizando pytest
-- Identificar bugs no código
-- Corrigir o código
+- Write unit tests using pytest
+- Find bugs
+- Fix the code
 
-## Arquivo fornecido
+## File given
 
-- `cart.py` — módulo responsável pelo cálculo do carrinho de compras
+- `cart.py` — module responsible for the shopping cart calculation.
 
-## Tarefa
+## Assignment
 
-Criar o arquivo:
+Create the file:
 
 `test_cart.py`
 
-Os testes devem cobrir todas as funções presentes no módulo `cart.py`.
+The tests need to cover all of the functions presents in the `cart.py` module.
 
-## Requisitos técnicos
+## Requirements
 
-Os testes devem incluir:
+The tests have to include: 
 
 'pytest.parametrize'
